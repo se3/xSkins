@@ -1,6 +1,7 @@
 Introduction:
- xSkins is a script that is only for usage with Xtreamer Media Player.
- xSkins is Skin Browser that shows all skins from internet repository.
+ xSkins script is written Xtreamer Media Player.
+ xSkins is a php script that allows user to change the skin.
+ xSkins Skin Browser shows all skins from internet repository.
  By selecting a skin fron Skin Browser the original skin will be replaced with the selected one.
 
 Usage:
